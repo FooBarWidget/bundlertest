@@ -1,0 +1,11 @@
+GEM
+  specs:
+    gem1 (1.0.0)
+    gem2 (1.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gem1
+  gem2
