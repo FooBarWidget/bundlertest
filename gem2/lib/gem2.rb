@@ -1,3 +1,3 @@
-module Gem1
+module Gem2
   # Your code goes here...
 end
