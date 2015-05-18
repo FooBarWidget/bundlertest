@@ -1,6 +1,6 @@
-puts " -------> gem1: #{ARGV.inspect}"
+puts " -------> gem3: #{ARGV.inspect}"
 
-File.open("/tmp/gem1.txt", "w") do |f|
+File.open("/tmp/gem3.txt", "w") do |f|
   f.puts(ARGV.inspect)
 end
 

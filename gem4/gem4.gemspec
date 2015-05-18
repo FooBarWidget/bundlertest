@@ -3,7 +3,7 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
-  spec.name          = "gem1"
+  spec.name          = "gem4"
   spec.version       = "1.0.0"
   spec.authors       = ["Hongli Lai (Phusion)"]
   spec.email         = ["hongli@phusion.nl"]
@@ -13,6 +13,6 @@ Gem::Specification.new do |spec|
   spec.homepage      = "http://www.google.com"
   spec.extensions    = "extconf.rb"
 
-  spec.files         = ["lib/gem1.rb"]
+  spec.files         = ["lib/gem4.rb"]
   spec.require_paths = ["lib"]
 end

@@ -2,6 +2,8 @@ GEM
   specs:
     gem1 (1.0.0)
     gem2 (1.0.0)
+    gem3 (1.0.0)
+    gem4 (1.0.0)
 
 PLATFORMS
   ruby
@@ -9,3 +11,5 @@ PLATFORMS
 DEPENDENCIES
   gem1
   gem2
+  gem3
+  gem4
